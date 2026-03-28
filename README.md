@@ -1,2 +1,25 @@
-# ireem23.github.io
-.
+ <!DOCTYPE html>
+<html lang="tr">
+<body style="background-color:mistyrose;">
+<h1 style="text-align:center;"> Heading for the website</h1>
+<p style="text-align:center;"> <img src="str.jpg" alt="strawberry" width=300 length=300> </p> <br>
+<a href="https://en.wikipedia.org/wiki/Strawberry">this is a link for strawberries!</a>
+<p>(open and see)</p>
+<hr>
+<h2> <em> What fruits do you like? </em></h2>
+<p style="color:mediumvioletred;"> <i><b>Aren't' <ins>strawberries</ins> nice? </b></i> </p> 
+<hr>
+<p> Now read the next text from right to left: </p>
+<bdo dir="rtl"> Bu siteyi irem emirhan icin yapti </bdo>
+<hr>
+
+<p> Hangi renk daha guzel?? </p>
+<p style="color:PaleVioletRed;"> <b>(1)BU RENK MI</b> </p>
+<p> yoksa </p>
+<p style="color:DeepPink;"> <b>(2)BU RENK MI</b> </p>
+<p style="border:2px solid tomato;"> <i>cevaplarini</i> bana imessagedan yaz!</p>
+
+<!-- This is a comment -->
+
+</body>
+</html>
